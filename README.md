@@ -1,0 +1,1 @@
+# Actividad-1.2.1-Estructura-de-datos-Slicing
